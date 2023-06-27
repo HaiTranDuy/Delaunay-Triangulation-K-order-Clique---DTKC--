@@ -1,0 +1,26 @@
+Method,Distance,Prevalent colocation,Execution Time,Memory used
+Clique base,50,NaN,NaN,NaN
+Clique base,75,NaN,NaN,NaN
+Clique base,100,NaN,NaN,NaN
+Clique base,125,NaN,NaN,NaN
+Clique base,150,NaN,NaN,NaN
+Joinless,50,34,3,338
+Joinless,75,95,8,255
+Joinless,100,201,58,289
+Joinless,125,451,1067,260
+Joinless,150,923,19785,382
+Condense,50,34,7,338
+Condense,75,94,16,300
+Condense,100,206,98,421
+Condense,125,472,1383,473
+Condense,150,981,21220,768
+DTC,50,34,3,199
+DTC,75,34,3,199
+DTC,100,34,3,199
+DTC,125,34,3,199
+DTC,150,34,3,199
+DTKC,50,41,4,112
+DTKC,75,41,4,112
+DTKC,100,41,4,112
+DTKC,125,41,4,112
+DTKC,150,41,4,112

@@ -1,0 +1,26 @@
+Method,Min prevalent,Prevalent colocation,Execution Time,Memory used
+Clique base,0.1,NaN,NaN,NaN
+Clique base,0.15,NaN,NaN,NaN
+Clique base,0.2,NaN,NaN,NaN
+Clique base,0.25,NaN,NaN,NaN
+Clique base,0.3,NaN,NaN,NaN
+Joinless,0.1,4455,3690,629
+Joinless,0.15,1628,904,545
+Joinless,0.2,758,296,765
+Joinless,0.25,404,174,623
+Joinless,0.3,227,83,534
+Condense,0.1,4777,6906,1039
+Condense,0.15,1694,1720,1003
+Condense,0.2,770,415,1189
+Condense,0.25,405,239,966
+Condense,0.3,227,184,879
+DTC,0.1,218,11.5,763
+DTC,0.15,157,12,766
+DTC,0.2,107,10,821
+DTC,0.25,53,12,757
+DTC,0.3,25,12,869
+DTKC,0.1,306,40,471
+DTKC,0.15,188,42,407
+DTKC,0.2,120,31,391
+DTKC,0.25,81,42,407
+DTKC,0.3,43,38,536
