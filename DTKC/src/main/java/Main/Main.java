@@ -18,6 +18,7 @@ public class Main {
     
     public static int k = 2;
     public static double min_prev = 0.2;
+    
     public static int Step = 4;
     public static int loaiIDS = 1;
     

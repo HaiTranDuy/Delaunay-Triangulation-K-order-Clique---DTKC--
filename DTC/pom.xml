@@ -11,7 +11,7 @@
         for constrained Delaunay triangulation described in V. Domiter and and B. Zalik.</description>
 
     <!-- Project Information -->
-    <name>Delaunay_Kneighbor_DFS</name>
+    <name>Delaunay with out threshold 2</name>
 
     <licenses>
         <license>
